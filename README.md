@@ -1,0 +1,2 @@
+# MobileTemplateApp
+Xamarin template app
